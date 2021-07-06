@@ -84,3 +84,12 @@ function pi(){
 function cl(){
     document.calculator.screen.value="";
 }
+
+
+
+
+
+
+
+
+
